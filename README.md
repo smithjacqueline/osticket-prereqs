@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src=https://i.imgur.com/TPv6EaT.jpeg
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Azure Resource Groups, Windows and Linux, Azure Virtual Machines, Azure Network Security Groups, and Firewall information. The Resources are all covered in this section and highlight just a select number of the learning opportunities available through Azure.
 </p>
 <br />
 
