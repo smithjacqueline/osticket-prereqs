@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Post Installation Setup
 - Tickets and Ticket Lifecycle
 
- ![image](https://github.com/smithjacqueline/osticket-prereqs/assets/167359756/9a509421-db9d-4d7e-8510-027fd81a9939)
+ https://i.imgur.com/lga1eYd.png ![image](https://github.com/smithjacqueline/osticket-prereqs/assets/167359756/9a509421-db9d-4d7e-8510-027fd81a9939)
 
 
 <h2>Installation Steps</h2>
